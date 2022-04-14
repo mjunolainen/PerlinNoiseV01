@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* This centers our sketch horizontally if the createCanvas width is smaller than windowWidth. */
+  justify-content: center;
+  /* This centers our sketch vertically if the createCanvas height is smaller than windowHeight. */
+  align-items: center;
+}
