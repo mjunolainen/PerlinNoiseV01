@@ -1,2 +1,2 @@
 ### My first attempt to create perlin noise
-See it in action here 
+To see it in action, head over to  [Netlify](https://boisterous-bunny-179990.netlify.app/)
